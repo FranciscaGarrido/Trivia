@@ -1,0 +1,60 @@
+body.content{
+    background:pink;
+    align-items: center;
+    display: block;
+    text-align: center;
+}
+
+.cuadro-content {
+    display: block;
+    border: 2px solid;
+    padding: 20px;
+}
+
+#botonOpcion {
+    margin: 20px;
+    border-radius: 5px;
+    background: #e8779e;
+    color: white;
+}
+
+button {
+    border-radius: 5px;
+    background: #6bdada;
+    box-shadow: none;
+}
+
+button a {
+    text-decoration: none;
+    color:black;
+}
+
+input[type="button"] {
+    border-radius: 5px;
+    background: #6bdada;
+    box-shadow: none;
+}
+
+#pregunta1{
+    display: block;
+}
+
+#pregunta2{
+    display:none;
+}
+
+#pregunta3{
+    display:none;
+}
+
+#pregunta4{
+    display: block;
+}
+
+#pregunta5{
+    display:none;
+}
+
+#pregunta6{
+    display:none;
+}
